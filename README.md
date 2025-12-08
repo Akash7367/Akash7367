@@ -1,20 +1,4 @@
 <!-- 3D / Hero Banner -->
-<!-- 3D / Hero Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/welcome/black.gif" width="600" alt="Welcome GIF"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coder/coder.gif" width="280" alt="3D coder GIF"/>
-</p>
-
-<h1 align="center">Hi, I'm <a href="https://github.com/yourusername" target="_blank">Akash Kumar</a> 🧠</h1>
-<h3 align="center">Data Science & AI/ML Student | Deep Learning | Generative AI | MLOps</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Turning+data+into+intelligence;Building+LLM-powered+applications;Deploying+end-to-end+ML+pipelines" />
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/welcome/black.gif" width="600" alt="Welcome GIF"/>
 </p>
@@ -42,8 +26,15 @@
 - 🎓 Data Science & AI/ML student focusing on **ML, DL, GenAI & MLOps**
 - 🚀 Love building **end‑to‑end ML/LLM apps** with clean deployment workflows
 - 🧩 Enjoy **DSA, problem‑solving, and competitive programming**
+<p align="right">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/developer/developer.gif" width="260" alt="Developer GIF"/>
+</p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/lines/line-code.gif" width="600" alt="Animated divider"/>
+</p>
+
 
 ## 💻 Programming & DSA
 
@@ -140,7 +131,15 @@
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coder/coder.gif" width="220" alt="Coding GIF"/>
+</p>
+
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/github/github-contribution.gif" width="280" alt="GitHub contribution GIF"/>
+</p>
 
 ## 📈 GitHub Stats
 
@@ -152,11 +151,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yourusername&theme=tokyonight" height="150" alt="Stats card"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yourusername&theme=tokyonight&utcOffset=5.5" height="150" alt="Productive time card"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" alt="GitHub activity graph" />
-</p>
-
 
 
 ## 🌐 Connect With Me
