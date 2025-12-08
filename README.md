@@ -3,8 +3,12 @@
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/welcome/black.gif" width="600" alt="Welcome GIF"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coder/coder.gif" width="260" alt="3D coder GIF"/>
+</p>
+
 <h1 align="center">Hi, I'm <a href="https://github.com/yourusername" target="_blank">Akash Kumar</a> 🧠</h1>
-<h3 align="center">Data Science & AI/ML Student | Deep Learning | Generative AI | MLOps</h3>
+<h3 align="center" >Data Science & AI/ML Student | Deep Learning | Generative AI | MLOps</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Turning+data+into+intelligence;Building+LLM-powered+applications;Deploying+end-to-end+ML+pipelines" />
@@ -23,20 +27,25 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Data Science & AI/ML student focusing on **ML, DL, GenAI & MLOps**
-- 🚀 Love building **end‑to‑end ML/LLM apps** with clean deployment workflows
-- 🧩 Enjoy **DSA, problem‑solving, and competitive programming**
 <p align="right">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/developer/developer.gif" width="260" alt="Developer GIF"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/developer/developer.gif" width="230" alt="Developer GIF"/>
 </p>
 
+- 📍 Rohtak, Haryana (124001), India  
+- 🎓 B.Tech CSE (AIML) @ Maharshi Dayanand University (CGPA: **8.07**)  
+- 🔭 Working on **ML/DL, LLM apps, and MLOps pipelines**  
+- 💬 Love **DSA, problem-solving, and competitive programming**  
+- ✉️ Reach me: **akashgupta7965@gmail.com**  
+
 ---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/lines/line-code.gif" width="600" alt="Animated divider"/>
 </p>
 
+## 🛠 Tech Stack
 
-## 💻 Programming & DSA
+### 💻 Programming & DSA
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -49,19 +58,19 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
----
-
-## 📊 Data Science, ML & DL
+### 📊 Data Analysis & Machine Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-fff?style=for-the-badge&logo=plotly&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Seaborn-3182bd?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
+
+### 🤖 Deep Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
@@ -71,9 +80,7 @@
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 </p>
 
----
-
-## 🤖 GenAI, LLM & NLP
+### 🧬 GenAI, LLM & NLP
 
 <p align="center">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000"/>
@@ -85,9 +92,7 @@
   <img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
----
-
-## ☁️ Cloud, DevOps & MLOps
+### ☁️ Cloud, DevOps & MLOps
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -100,9 +105,7 @@
   <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=circleci&logoColor=white"/>
 </p>
 
----
-
-## 🌐 Web, Backend & APIs
+### 🌐 Web & Backend
 
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -114,9 +117,7 @@
   <img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=json&logoColor=white"/>
 </p>
 
----
-
-## 🗄️ Databases, Analytics & Tools
+### 🗄️ Databases & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -137,8 +138,51 @@
 
 ---
 
+## 🎓 Education
+
+- **B.Tech in Computer Science & Engineering (AIML)**  
+  Maharshi Dayanand University, Rohtak (2022 – 2026) — CGPA: **8.07**
+
+- **Class XII (BSEB) — 78.8%**  
+  B.B.N. College, Gopalganj, Bihar (2019 – 2021)
+
+---
+
+## 🚀 Projects
+
+- **Face Recognition Attendance System**  
+  Real-time face recognition using OpenCV with MySQL-backed attendance logging.
+
+- **WhatsApp Chat Analyzer**  
+  Streamlit dashboard for sentiment analysis and user-activity trends.
+
+- **Intelligent Enterprise Document Assistant (LLM + RAG)**  
+  RAG + Gemini based contract assistant with semantic search, risk scoring, and query history.
+
+- **Virtual Mouse Controller**  
+  Gesture-controlled mouse using MediaPipe + OpenCV for touch-free control.
+
+---
+
+## 📜 Certifications
+
+- Microsoft Fabric Analytics Engineer (DP-600)  
+- Microsoft Fabric Data Engineer (DP-700)  
+- 100 Days of Python — Udemy (Angela Yu)  
+- CampusX Data Science Mentorship Program  
+
+---
+
+## 🏆 Awards & Achievements
+
+- 4★ CodeChef, 4★ GFG, 450+ LeetCode problems (1200+ DSA solved)  
+- 2nd Rank — GeekHub Hackathon  
+- 1st Rank — Carrom (Sportech Fest)  
+
+---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/github/github-contribution.gif" width="280" alt="GitHub contribution GIF"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/github/github-contribution.gif" width="260" alt="GitHub contribution GIF"/>
 </p>
 
 ## 📈 GitHub Stats
@@ -152,17 +196,19 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yourusername&theme=tokyonight&utcOffset=5.5" height="150" alt="Productive time card"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" alt="GitHub activity graph" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/akash-kumar-298113264/" target="_blank">
+  <a href="https://www.linkedin.com/in/akash-kumar-298113264" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:akashgupta7965@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" />
   </a>
 </p>
