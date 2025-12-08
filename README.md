@@ -125,33 +125,20 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <!-- Dynamic profile details -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" 
-    height="180" 
-    alt="Profile details card"
+  <!-- Dynamic GitHub Readme Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Akash7367&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    height="170"
+    alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
-  <!-- Dynamic overall stats -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yourusername&theme=tokyonight" 
-    height="150" 
-    alt="Stats card"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yourusername&theme=tokyonight&utcOffset=5.5" 
-    height="150" 
-    alt="Productive time card"
-  />
-</p>
-
-<p align="center">
-  <!-- Dynamic activity graph (last days of commits) -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" 
-    alt="GitHub activity graph" 
+  <!-- Dynamic streak stats -->
+  <img
+    src="https://streak-stats.demolab.com?user=Akash7367&theme=tokyonight&hide_border=false"
+    height="170"
+    alt="GitHub Streak"
   />
 </p>
 
