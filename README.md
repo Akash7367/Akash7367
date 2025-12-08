@@ -1,4 +1,20 @@
 <!-- 3D / Hero Banner -->
+<!-- 3D / Hero Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/welcome/black.gif" width="600" alt="Welcome GIF"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coder/coder.gif" width="280" alt="3D coder GIF"/>
+</p>
+
+<h1 align="center">Hi, I'm <a href="https://github.com/yourusername" target="_blank">Akash Kumar</a> 🧠</h1>
+<h3 align="center">Data Science & AI/ML Student | Deep Learning | Generative AI | MLOps</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Turning+data+into+intelligence;Building+LLM-powered+applications;Deploying+end-to-end+ML+pipelines" />
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/welcome/black.gif" width="600" alt="Welcome GIF"/>
 </p>
@@ -129,22 +145,18 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <!-- Main stats card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" 
-    height="170" 
-    alt="GitHub stats card"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" height="180" alt="Profile details card"/>
 </p>
 
 <p align="center">
-  <!-- Streak-style stats similar to your screenshot -->
-  <img 
-    src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=false" 
-    height="170" 
-    alt="GitHub streak stats"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yourusername&theme=tokyonight" height="150" alt="Stats card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yourusername&theme=tokyonight&utcOffset=5.5" height="150" alt="Productive time card"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" alt="GitHub activity graph" />
+</p>
+
 
 
 ## 🌐 Connect With Me
