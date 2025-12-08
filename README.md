@@ -1,13 +1,5 @@
 <!-- 3D / Hero Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/welcome/black.gif" width="600" alt="Welcome GIF"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coder/coder.gif" width="260" alt="3D coder GIF"/>
-</p>
-
-<h1 align="center">Hi, I'm <a href="https://github.com/yourusername" target="_blank">Akash Kumar</a> 🧠</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/Akash7367" target="_blank">Akash Kumar</a> 🧠</h1>
 <h3 align="center" >Data Science & AI/ML Student | Deep Learning | Generative AI | MLOps</h3>
 
 <p align="center">
