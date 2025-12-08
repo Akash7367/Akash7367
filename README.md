@@ -120,25 +120,39 @@
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coder/coder.gif" width="220" alt="Coding GIF"/>
-</p>
-
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/github/github-contribution.gif" width="260" alt="GitHub contribution GIF"/>
-</p>
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" height="180" alt="Profile details card"/>
+  <!-- Dynamic profile details -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" 
+    height="180" 
+    alt="Profile details card"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yourusername&theme=tokyonight" height="150" alt="Stats card"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yourusername&theme=tokyonight&utcOffset=5.5" height="150" alt="Productive time card"/>
+  <!-- Dynamic overall stats -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yourusername&theme=tokyonight" 
+    height="150" 
+    alt="Stats card"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yourusername&theme=tokyonight&utcOffset=5.5" 
+    height="150" 
+    alt="Productive time card"
+  />
+</p>
+
+<p align="center">
+  <!-- Dynamic activity graph (last days of commits) -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" 
+    alt="GitHub activity graph" 
+  />
 </p>
 
 ---
