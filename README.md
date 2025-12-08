@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛰️ I’m currently working on: AI automation projects, data science tasks, and full-stack applications.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on: Machine learning, data analysis, and Python-based projects.<br><br>🤝 I’m looking for help with: MLOps, scaling AI systems, and advanced model optimization.<br><br>🌱 I’m currently learning: Deep learning, distributed systems, R programming, and Microsoft Fabric.<br><br>💬 Ask me about: Python, AI projects, web scraping, DBMS, face recognition systems, and automation tools.<br><br>⚡ Fun fact: I’ve completed 100-day coding streaks on both LeetCode and GFG with 350+ problems solved.
+🛰️ I’m currently working on: AI automation projects, data science tasks, and full-stack applications.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on: Machine learning, data analysis, and Python-based projects.<br><br>🤝 I’m looking for help with: MLOps, scaling AI systems, and advanced model optimization.<br><br>🌱 I’m currently learning: Deep learning, distributed systems, R programming, and Microsoft Fabric.<br><br>💬 Ask me about: Python, AI projects, web scraping, DBMS, face recognition systems, and automation tools.<br><br>⚡ Fun fact: I’ve completed 200-day coding streaks on gfg and 380 days at leetcode with 1000+ DSA problems solved.
 
 
 ## 🌐 Socials:
