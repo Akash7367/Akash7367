@@ -124,23 +124,9 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <!-- Dynamic GitHub Readme Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Akash7367&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    height="170"
-    alt="GitHub Stats"
-  />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash7367&theme=tokyonight" alt="GitHub Streak" />
 
-<p align="center">
-  <!-- Dynamic streak stats -->
-  <img
-    src="https://streak-stats.demolab.com?user=Akash7367&theme=tokyonight&hide_border=false"
-    height="170"
-    alt="GitHub Streak"
-  />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash7367&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
 ---
 
