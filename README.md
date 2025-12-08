@@ -27,10 +27,6 @@
 
 ## 🧑‍💻 About Me
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/developer/developer.gif" width="230" alt="Developer GIF"/>
-</p>
-
 - 📍 Rohtak, Haryana (124001), India  
 - 🎓 B.Tech CSE (AIML) @ Maharshi Dayanand University (CGPA: **8.07**)  
 - 🔭 Working on **ML/DL, LLM apps, and MLOps pipelines**  
@@ -138,34 +134,6 @@
 
 ---
 
-## 🎓 Education
-
-- **B.Tech in Computer Science & Engineering (AIML)**  
-  Maharshi Dayanand University, Rohtak (2022 – 2026) — CGPA: **8.07**
-
-- **Class XII (BSEB) — 78.8%**  
-  B.B.N. College, Gopalganj, Bihar (2019 – 2021)
-
----
-
-
-## 📜 Certifications
-
-- Microsoft Fabric Analytics Engineer (DP-600)  
-- Microsoft Fabric Data Engineer (DP-700)  
-- 100 Days of Python — Udemy (Angela Yu)  
-- CampusX Data Science Mentorship Program  
-
----
-
-## 🏆 Awards & Achievements
-
-- 4★ CodeChef, 4★ GFG, 450+ LeetCode problems (1200+ DSA solved)  
-- 2nd Rank — GeekHub Hackathon  
-- 1st Rank — Carrom (Sportech Fest)  
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/github/github-contribution.gif" width="260" alt="GitHub contribution GIF"/>
 </p>
@@ -179,10 +147,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yourusername&theme=tokyonight" height="150" alt="Stats card"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yourusername&theme=tokyonight&utcOffset=5.5" height="150" alt="Productive time card"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" alt="GitHub activity graph" />
 </p>
 
 ---
