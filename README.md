@@ -28,10 +28,10 @@
 
 > *"I don't just write code — I build systems that think."*
 
-I'm **Akash Kumar**, a Final Year **B.Tech AIML** student at **Maharshi Dayanand University** (2026), passionate about turning cutting-edge research into real-world AI products. I live at the intersection of **Machine Learning**, **Generative AI**, and **Computer Vision** — building things that actually work.
+I'm **Akash Kumar**, a Final Year **B.Tech AIML** student at **UIET, Maharshi Dayanand University Rohtak Haryana** (2026), passionate about turning cutting-edge research into real-world AI products. I live at the intersection of **Data Science**,**Machine Learning**, **Generative AI**, and **Computer Vision** — building things that actually work.
 
 - 📍 Rohtak, Haryana, India
-- 🎓 B.Tech CSE (AIML) — CGPA: **8.07**
+- 🎓 B.Tech CSE (AIML Engineering) — CGPA: **8.13**
 - 🔬 Currently deep-diving into **LLM fine-tuning**, **Agentic RAG**, and **MLOps**
 - 💡 Passionate about **DSA**, **competitive programming**, and building AI-powered products
 - 📬 **akashgupta7965@gmail.com**
@@ -45,8 +45,9 @@ I'm **Akash Kumar**, a Final Year **B.Tech AIML** student at **Maharshi Dayanand
 | 🔥 | Achievement |
 |---|---|
 | 🌟 | **380+ Day Coding Streak** — Consistent daily commitment to growth |
-| ⚡ | **100 Days LeetCode Streak** — Algorithmic sharpness |
+| 🏆 | **600+ DSA Problem** — Solved on leetcode easy to medium question|
 | 🧠 | **100 Days GFG Streak** — Consistent DSA practice |
+| 🧠 | **100 Days GFG codechef** — Consistent DSA practice |
 | 🥈 | **2nd Rank** — Hackathon (competitive engineering) |
 | 🏆 | **1st Rank** — Carrom @ Sportech (champion mindset off-screen too) |
 
@@ -122,38 +123,86 @@ I'm **Akash Kumar**, a Final Year **B.Tech AIML** student at **Maharshi Dayanand
 </p>
 
 ---
-
-## 🚀 Featured Projects
+## 🧠 LeetCode Profile
 
 <div align="center">
 
-| # | Project | Description | Tech |
-|---|---------|-------------|------|
-| 🎭 | **[Face Recognition Attendance System](https://github.com/Akash7367)** | Real-time face detection & automated attendance logging | `OpenCV` `DeepFace` `Python` `Flask` |
-| 💬 | **[WhatsApp Chat Analyzer](https://github.com/Akash7367)** | Full analytics dashboard — sentiment, timeline, word clouds | `Python` `Streamlit` `NLP` `Seaborn` |
-| 🖱️ | **[Virtual Mouse (Hand Gestures)](https://github.com/Akash7367)** | Control your PC using hand landmarks — no hardware needed | `MediaPipe` `OpenCV` `PyAutoGUI` |
-| 🏨 | **[Hotel Cancellation Analysis](https://github.com/Akash7367)** | EDA + ML model to predict booking cancellations | `Pandas` `Scikit-learn` `Matplotlib` |
-| 🏦 | **[Internet Banking System](https://github.com/Akash7367)** | Secure banking web app with auth & transaction features | `Python` `Flask` `MySQL` `HTML/CSS` |
+<a href="https://leetcode.com/u/akash2211017/">
+  <img src="https://leetcode.card.workers.dev/akash2211017?theme=dark&font=baloo&extension=null" />
+</a>
+
+<br/>
+
+<a href="https://leetcode.com/akash2211017/">
+  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="20"/> Visit My LeetCode Profile
+</a>
 
 </div>
 
+
 ---
+
 
 ## 📊 GitHub Stats Dashboard
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akash7367&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00d4ff&icon_color=c084fc&text_color=ffffff&bg_color=0d1117" height="180"/>
+<!-- Primary Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Akash7367&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00d4ff&icon_color=c084fc&text_color=ffffff&bg_color=0d1117&rank_icon=github" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash7367&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00d4ff&text_color=ffffff&bg_color=0d1117" height="180"/>
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash7367&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00d4ff&text_color=ffffff&bg_color=0d1117&langs_count=8" height="180"/>
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Akash7367&theme=tokyonight&hide_border=true&ring=00d4ff&fire=c084fc&currStreakLabel=00d4ff&background=0d1117" height="180"/>
+<!-- Streak Stats — using git.io/streak-stats (most reliable) -->
+<img src="https://streak-stats.demolab.com?user=Akash7367&theme=tokyonight&hide_border=true&ring=00d4ff&fire=c084fc&currStreakLabel=00d4ff&background=0d1117&sideLabels=ffffff&dates=888888" height="180"/>
 
 <br/><br/>
 
+<!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash7367&theme=tokyo-night&hide_border=true&area=true&area_color=00d4ff&line=c084fc&point=ffffff&bg_color=0d1117" width="95%" alt="Contribution Graph" />
+
+<br/><br/>
+
+<!-- GitHub Stats: Detailed breakdown -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akash7367&theme=tokyonight" width="95%" alt="Profile Summary"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akash7367&theme=tokyonight" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akash7367&theme=tokyonight" height="160"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akash7367&theme=tokyonight" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akash7367&theme=tokyonight&utcOffset=+5.5" height="160"/>
+
+</div>
+
+---
+
+## 🔗 LinkedIn
+
+<div align="center">
+
+<a href="https://linkedin.com/in/akash-kumar-298113264" target="_blank">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%40akash--kumar--298113264-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
+
+</div>
+
+<div align="center">
+
+> 📌 **[linkedin.com/in/akash-kumar-298113264](https://linkedin.com/in/akash-kumar-298113264)**
+
+| 🎓 Education | 💼 Open To | 📢 Posts About |
+|---|---|---|
+| B.Tech AIML @ MDU (2026) | Internships & Full-Time Roles | AI/ML, GenAI, Projects |
+
+*I share projects, learnings, and AI/ML insights. Let's connect and grow together!*
 
 </div>
 
