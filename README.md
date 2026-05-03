@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0d1117,60:1a1a2e,100:16213e&height=240&section=header&text=Akash%20Kumar&fontSize=75&fontAlignY=40&animation=fadeIn&fontColor=00d4ff&desc=Final%20Year%20AI%20%7C%20ML%20%7C%20Data%20Science%20Engineer%20%7C%20GenAI%20Developer&descAlignY=62&descSize=19&descColor=c084fc" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0d1117,60:1a1a2e,100:16213e&height=240&section=header&text=Akash%20Kumar&fontSize=75&fontAlignY=40&animation=fadeIn&fontColor=00d4ff&desc=Machine Learning%20%7C%20Data%20Science%20%7C%20GenAI%20Developer&descAlignY=62&descSize=19&descColor=c084fc" />
 
 <br/>
 
@@ -28,13 +28,36 @@
 
 > *"I don't just write code — I build systems that think."*
 
-I'm **Akash Kumar**, a Final Year **B.Tech AIML** student at **UIET, Maharshi Dayanand University Rohtak Haryana** (2026), passionate about turning cutting-edge research into real-world AI products. I live at the intersection of **Data Science**,**Machine Learning**, **Generative AI**, and **Computer Vision** — building things that actually work.
+I'm **Akash Kumar**, a Final Year **B.Tech AIML Engineering** student at **UIET, Maharshi Dayanand University Rohtak Haryana** (2026), passionate about turning cutting-edge research into real-world AI products. I live at the intersection of **Data Science**,**Machine Learning**, **Generative AI**, and **Computer Vision** — building things that actually work.
 
 - 📍 Rohtak, Haryana, India
 - 🎓 B.Tech CSE (AIML Engineering) — CGPA: **8.13**
 - 🔬 Currently deep-diving into **LLM fine-tuning**, **Agentic RAG**, and **MLOps**
 - 💡 Passionate about **DSA**, **competitive programming**, and building AI-powered products
 - 📬 **akashgupta7965@gmail.com**
+
+---
+## 🚀 Featured Projects (Most Important Section)
+
+### 🔹 AI Chatbot with RAG
+
+* LLM-powered chatbot with document retrieval
+* Tech: LangChain, FAISS, OpenAI
+
+### 🔹 WhatsApp Chat Analyzer
+
+* NLP + visualization dashboard
+* Built using Python, Matplotlib, Seaborn
+
+### 🔹 Face Recognition Attendance System
+
+* Real-time face detection + attendance logging
+* OpenCV + ML
+
+### 🔹 Virtual Mouse Controller
+
+* Hand gesture-based mouse + volume control
+* MediaPipe + Computer Vision
 
 ---
 
@@ -179,6 +202,11 @@ I'm **Akash Kumar**, a Final Year **B.Tech AIML** student at **UIET, Maharshi Da
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akash7367&theme=tokyonight" height="160"/>
 &nbsp;&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akash7367&theme=tokyonight&utcOffset=+5.5" height="160"/>
+
+
+<p align="center">
+  <img src="https://github.com/Akash7367/Akash7367/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 </div>
 
